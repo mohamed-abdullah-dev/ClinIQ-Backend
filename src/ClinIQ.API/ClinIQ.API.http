@@ -1,6 +1,6 @@
 @ClinIQ.API_HostAddress = http://localhost:5084
 
-GET {{ClinIQ.API_HostAddress}}/weatherforecast/
+GET {{ClinIQ.API_HostAddress}}/openapi/v1.json
 Accept: application/json
 
 ###
